@@ -1,0 +1,1 @@
+This repository contains codes for the paper "Larger Contribution of Anthropogenic Climate Change to the Increasing Frequency of Compound Droughts and Heatwaves in Poor Countries Compared to Wealthy Ones" by Boen Zhang, Shuo Wang, and Louise Slater
