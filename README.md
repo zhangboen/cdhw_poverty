@@ -1,1 +1,1 @@
-This repository contains codes for producing the main figures in the paper "Anthropogenic climate change doubled the frequency of compound drought and heatwaves in low-income regions" by Boen Zhang, Shuo Wang, and Louise Slater.
+This repository contains codes for producing the main figures in the paper "Anthropogenic climate change doubled the frequency of compound drought and heatwaves in low-income regions" by Boen Zhang, Shuo Wang, and Louise Slater that are published on Communications Earth & Environment (https://doi.org/10.1038/s43247-024-01894-7).
